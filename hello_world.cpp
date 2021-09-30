@@ -1,8 +1,13 @@
 #include <iostream>
+#include <string.h>
 
 int main()
 { 
-    std::cout <<"Hello World";
+    std::string a;
+
+    std::cin >> a; //Type anything//
+
+    std::cout << a;
     
     return 0 ;
 
