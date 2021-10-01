@@ -6,8 +6,6 @@ Hello everyone👋. I am Tanmoy Mondal and I am from NSEC 1st Year.
 
 **City**- *Kolkata*
 
-<img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
-
 ## 💠College Details
 
 **College Name**- *Netaji Subhash Enginnering College*
